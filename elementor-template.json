@@ -1,0 +1,2176 @@
+{
+  "version": "0.4",
+  "title": "تظلم رفض العلامة التجارية - صفحة هبوط",
+  "type": "page",
+  "page_settings": {
+    "template": "elementor_canvas",
+    "hide_title": "yes",
+    "page_title": "تظلم من رفض العلامة التجارية"
+  },
+  "content": [
+    {
+      "id": "b91e1bb",
+      "elType": "section",
+      "settings": {
+        "layout": "boxed",
+        "padding": {
+          "unit": "px",
+          "top": 110,
+          "right": 0,
+          "bottom": 110,
+          "left": 0,
+          "isLinked": false
+        },
+        "structure": "10",
+        "background_background": "gradient",
+        "background_color": "#0B1F3A",
+        "background_color_b": "#13325c",
+        "background_gradient_angle": {
+          "unit": "deg",
+          "size": 135,
+          "sizes": []
+        }
+      },
+      "elements": [
+        {
+          "id": "1d7a5eb",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "31a9c18",
+              "elType": "widget",
+              "settings": {
+                "title": "تظلم رفض العلامة التجارية",
+                "header_size": "h1",
+                "align": "right",
+                "title_color": "#FFFFFF",
+                "_element_custom_width": {
+                  "unit": "%",
+                  "size": 100
+                },
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 46,
+                  "sizes": []
+                },
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "0678899",
+              "elType": "widget",
+              "settings": {
+                "title": "لا تدع رفض إدارة العلامات يوقف مشروعك — نُعد ونقدّم تظلمك باحترافية ونتابعه حتى القبول",
+                "header_size": "h3",
+                "align": "right",
+                "title_color": "#C8A24B",
+                "_element_custom_width": {
+                  "unit": "%",
+                  "size": 100
+                },
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 22,
+                  "sizes": []
+                },
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "482dc2b",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p>فريق متخصص في <strong>التظلم من رفض العلامة التجارية</strong> أمام الجهات المختصة بالمملكة العربية السعودية. ندرس أسباب الرفض، ونصيغ مذكرة التظلم النظامية، ونرفقها بالمستندات والسوابق التي تعزّز قبول علامتك التجارية.</p>",
+                "align": "right",
+                "text_color": "#D7DEEA",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.9,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            },
+            {
+              "id": "642388c",
+              "elType": "widget",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 10,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "spacer"
+            },
+            {
+              "id": "eafff90",
+              "elType": "section",
+              "settings": {
+                "gap": "default"
+              },
+              "elements": [
+                {
+                  "id": "15d47c0",
+                  "elType": "column",
+                  "settings": {
+                    "_column_size": 50,
+                    "_inline_size": null
+                  },
+                  "elements": [
+                    {
+                      "id": "8efcbff",
+                      "elType": "widget",
+                      "settings": {
+                        "text": "اتصل الآن — استشارة فورية",
+                        "link": {
+                          "url": "tel:+966541447701",
+                          "is_external": "true",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "align": "right",
+                        "button_text_color": "#FFFFFF",
+                        "background_color": "#C8A24B",
+                        "border_radius": {
+                          "unit": "px",
+                          "top": 10,
+                          "right": 10,
+                          "bottom": 10,
+                          "left": 10,
+                          "isLinked": true
+                        },
+                        "text_padding": {
+                          "unit": "px",
+                          "top": 18,
+                          "right": 38,
+                          "bottom": 18,
+                          "left": 38,
+                          "isLinked": false
+                        },
+                        "selected_icon": {
+                          "value": "fas fa-phone-alt",
+                          "library": "fa-solid"
+                        },
+                        "icon_align": "right",
+                        "icon_indent": {
+                          "unit": "px",
+                          "size": 10,
+                          "sizes": []
+                        },
+                        "typography_typography": "custom",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 18,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700"
+                      },
+                      "elements": [],
+                      "widgetType": "button"
+                    }
+                  ],
+                  "isInner": false
+                },
+                {
+                  "id": "6c834b5",
+                  "elType": "column",
+                  "settings": {
+                    "_column_size": 50,
+                    "_inline_size": null
+                  },
+                  "elements": [
+                    {
+                      "id": "1b0c880",
+                      "elType": "widget",
+                      "settings": {
+                        "text": "تواصل عبر واتساب",
+                        "link": {
+                          "url": "https://wa.me/966541447701?text=أرغب%20في%20تقديم%20تظلم%20على%20رفض%20علامتي%20التجارية",
+                          "is_external": "true",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "align": "right",
+                        "button_text_color": "#FFFFFF",
+                        "background_color": "#25D366",
+                        "border_radius": {
+                          "unit": "px",
+                          "top": 10,
+                          "right": 10,
+                          "bottom": 10,
+                          "left": 10,
+                          "isLinked": true
+                        },
+                        "text_padding": {
+                          "unit": "px",
+                          "top": 18,
+                          "right": 38,
+                          "bottom": 18,
+                          "left": 38,
+                          "isLinked": false
+                        },
+                        "selected_icon": {
+                          "value": "fab fa-whatsapp",
+                          "library": "fa-solid"
+                        },
+                        "icon_align": "right",
+                        "icon_indent": {
+                          "unit": "px",
+                          "size": 10,
+                          "sizes": []
+                        },
+                        "typography_typography": "custom",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 18,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700"
+                      },
+                      "elements": [],
+                      "widgetType": "button"
+                    }
+                  ],
+                  "isInner": false
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "b4d6578",
+              "elType": "widget",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 8,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "spacer"
+            },
+            {
+              "id": "6090b4a",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p style='font-size:18px;color:#FFFFFF'>📞 ‏+966 54 144 7701</p>",
+                "align": "right",
+                "text_color": "#FFFFFF",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.9,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "eda6670",
+      "elType": "section",
+      "settings": {
+        "layout": "boxed",
+        "padding": {
+          "unit": "px",
+          "top": 70,
+          "right": 0,
+          "bottom": 70,
+          "left": 0,
+          "isLinked": false
+        },
+        "structure": "10",
+        "background_background": "classic",
+        "background_color": "#FFFFFF"
+      },
+      "elements": [
+        {
+          "id": "353a2d8",
+          "elType": "column",
+          "settings": {
+            "_column_size": 60,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "b7770e4",
+              "elType": "widget",
+              "settings": {
+                "title": "ما هو التظلم من رفض العلامة التجارية؟",
+                "header_size": "h2",
+                "align": "right",
+                "title_color": "#0B1F3A",
+                "_element_custom_width": {
+                  "unit": "%",
+                  "size": 100
+                },
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 34,
+                  "sizes": []
+                },
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "0a414f5",
+              "elType": "widget",
+              "settings": {
+                "color": "#C8A24B",
+                "weight": {
+                  "unit": "px",
+                  "size": 3,
+                  "sizes": []
+                },
+                "width": {
+                  "unit": "px",
+                  "size": 70,
+                  "sizes": []
+                },
+                "align": "right"
+              },
+              "elements": [],
+              "widgetType": "divider"
+            },
+            {
+              "id": "07c5d72",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p>عندما تتقدّم بطلب تسجيل علامة تجارية وتصدر إدارة العلامات قرارًا بالرفض، يمنحك النظام السعودي الحق في تقديم <strong>تظلم على رفض تسجيل العلامة التجارية</strong> خلال المدة النظامية المحددة. التظلم هو مذكرة قانونية مسبّبة تُوضّح عدم صحة أسباب الرفض وتطالب بإعادة النظر في القرار وقبول العلامة.</p><p>نتولّى عنك إعداد صيغة التظلم من رفض تسجيل علامة تجارية بشكل نظامي دقيق، مدعّمة بالحجج والمستندات، لرفع فرص قبول علامتك وحماية هويتك التجارية.</p>",
+                "align": "right",
+                "text_color": "#5A6473",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.9,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "cb5719e",
+          "elType": "column",
+          "settings": {
+            "_column_size": 40,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "ea1629a",
+              "elType": "widget",
+              "settings": {
+                "icon_list": [
+                  {
+                    "_id": "c590d86",
+                    "text": "مهلة نظامية محددة لتقديم التظلم",
+                    "selected_icon": {
+                      "value": "fas fa-check-circle",
+                      "library": "fa-solid"
+                    }
+                  },
+                  {
+                    "_id": "8dbb2a7",
+                    "text": "مذكرة قانونية مسبّبة ومدعّمة بالأدلة",
+                    "selected_icon": {
+                      "value": "fas fa-check-circle",
+                      "library": "fa-solid"
+                    }
+                  },
+                  {
+                    "_id": "08c9d2c",
+                    "text": "متابعة الطلب حتى صدور القرار النهائي",
+                    "selected_icon": {
+                      "value": "fas fa-check-circle",
+                      "library": "fa-solid"
+                    }
+                  },
+                  {
+                    "_id": "20f4103",
+                    "text": "خبرة في تظلمات العلامات التجارية",
+                    "selected_icon": {
+                      "value": "fas fa-check-circle",
+                      "library": "fa-solid"
+                    }
+                  }
+                ],
+                "space_between": {
+                  "unit": "px",
+                  "size": 14,
+                  "sizes": []
+                },
+                "icon_color": "#C8A24B",
+                "text_color": "#0B1F3A",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 20,
+                  "sizes": []
+                },
+                "text_indent": {
+                  "unit": "px",
+                  "size": 12,
+                  "sizes": []
+                },
+                "icon_typography_typography": "custom",
+                "icon_typography_font_size": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "icon-list"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "355abbf",
+      "elType": "section",
+      "settings": {
+        "layout": "boxed",
+        "padding": {
+          "unit": "px",
+          "top": 70,
+          "right": 0,
+          "bottom": 20,
+          "left": 0,
+          "isLinked": false
+        },
+        "structure": "10",
+        "background_background": "classic",
+        "background_color": "#F5F7FA"
+      },
+      "elements": [
+        {
+          "id": "2d00036",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "ce14e72",
+              "elType": "widget",
+              "settings": {
+                "title": "أبرز أسباب رفض تسجيل العلامة التجارية",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#0B1F3A",
+                "_element_custom_width": {
+                  "unit": "%",
+                  "size": 100
+                },
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 32,
+                  "sizes": []
+                },
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "5e26e43",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p style='text-align:center'>معرفة سبب الرفض هي الخطوة الأولى لبناء تظلم ناجح. من أكثر الأسباب شيوعًا:</p>",
+                "align": "center",
+                "text_color": "#5A6473",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.9,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "c85974e",
+      "elType": "section",
+      "settings": {
+        "layout": "boxed",
+        "padding": {
+          "unit": "px",
+          "top": 20,
+          "right": 0,
+          "bottom": 20,
+          "left": 0,
+          "isLinked": false
+        },
+        "structure": "10",
+        "background_background": "classic",
+        "background_color": "#F5F7FA"
+      },
+      "elements": [
+        {
+          "id": "8cfe29c",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "e39e6cb",
+              "elType": "widget",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-clone",
+                  "library": "fa-solid"
+                },
+                "title_text": "التشابه مع علامة قائمة",
+                "description_text": "وجود علامة مسجّلة أو مطلوب تسجيلها تتشابه معها في الاسم أو الشكل.",
+                "position": "top",
+                "text_align": "center",
+                "title_color": "#0B1F3A",
+                "description_color": "#5A6473",
+                "primary_color": "#C8A24B",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 38,
+                  "sizes": []
+                },
+                "icon_space": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "title_typography_typography": "custom",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 21,
+                  "sizes": []
+                },
+                "title_typography_font_weight": "700",
+                "description_typography_typography": "custom",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "description_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.8,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "icon-box"
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "19da8d4",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "8edc64a",
+              "elType": "widget",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-ban",
+                  "library": "fa-solid"
+                },
+                "title_text": "مخالفة النظام العام",
+                "description_text": "احتواء العلامة على ألفاظ أو رموز مخالفة للأنظمة أو الآداب العامة.",
+                "position": "top",
+                "text_align": "center",
+                "title_color": "#0B1F3A",
+                "description_color": "#5A6473",
+                "primary_color": "#C8A24B",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 38,
+                  "sizes": []
+                },
+                "icon_space": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "title_typography_typography": "custom",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 21,
+                  "sizes": []
+                },
+                "title_typography_font_weight": "700",
+                "description_typography_typography": "custom",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "description_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.8,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "icon-box"
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "2eb2fc0",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "307274d",
+              "elType": "widget",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-font",
+                  "library": "fa-solid"
+                },
+                "title_text": "الوصفية والعمومية",
+                "description_text": "كون العلامة وصفًا مباشرًا للمنتج أو لفظًا عامًا لا يميّز نشاطك.",
+                "position": "top",
+                "text_align": "center",
+                "title_color": "#0B1F3A",
+                "description_color": "#5A6473",
+                "primary_color": "#C8A24B",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 38,
+                  "sizes": []
+                },
+                "icon_space": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "title_typography_typography": "custom",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 21,
+                  "sizes": []
+                },
+                "title_typography_font_weight": "700",
+                "description_typography_typography": "custom",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "description_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.8,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "icon-box"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "e7c62cb",
+      "elType": "section",
+      "settings": {
+        "layout": "boxed",
+        "padding": {
+          "unit": "px",
+          "top": 20,
+          "right": 0,
+          "bottom": 60,
+          "left": 0,
+          "isLinked": false
+        },
+        "structure": "10",
+        "background_background": "classic",
+        "background_color": "#F5F7FA"
+      },
+      "elements": [
+        {
+          "id": "e96c402",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "2f35001",
+              "elType": "widget",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-flag",
+                  "library": "fa-solid"
+                },
+                "title_text": "رموز محظورة",
+                "description_text": "استخدام أعلام أو شعارات رسمية أو رموز دينية لا يُسمح بتسجيلها.",
+                "position": "top",
+                "text_align": "center",
+                "title_color": "#0B1F3A",
+                "description_color": "#5A6473",
+                "primary_color": "#C8A24B",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 38,
+                  "sizes": []
+                },
+                "icon_space": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "title_typography_typography": "custom",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 21,
+                  "sizes": []
+                },
+                "title_typography_font_weight": "700",
+                "description_typography_typography": "custom",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "description_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.8,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "icon-box"
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "1b56263",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "4bc0e7d",
+              "elType": "widget",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-image",
+                  "library": "fa-solid"
+                },
+                "title_text": "ضعف العنصر المميّز",
+                "description_text": "عدم احتواء العلامة على عنصر ابتكاري يميّزها عن غيرها.",
+                "position": "top",
+                "text_align": "center",
+                "title_color": "#0B1F3A",
+                "description_color": "#5A6473",
+                "primary_color": "#C8A24B",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 38,
+                  "sizes": []
+                },
+                "icon_space": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "title_typography_typography": "custom",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 21,
+                  "sizes": []
+                },
+                "title_typography_font_weight": "700",
+                "description_typography_typography": "custom",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "description_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.8,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "icon-box"
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "22e013b",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "0ab80cc",
+              "elType": "widget",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-file-alt",
+                  "library": "fa-solid"
+                },
+                "title_text": "نقص المستندات",
+                "description_text": "قصور في البيانات أو المرفقات المقدّمة مع طلب التسجيل.",
+                "position": "top",
+                "text_align": "center",
+                "title_color": "#0B1F3A",
+                "description_color": "#5A6473",
+                "primary_color": "#C8A24B",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 38,
+                  "sizes": []
+                },
+                "icon_space": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "title_typography_typography": "custom",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 21,
+                  "sizes": []
+                },
+                "title_typography_font_weight": "700",
+                "description_typography_typography": "custom",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "description_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.8,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "icon-box"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "750fdbe",
+      "elType": "section",
+      "settings": {
+        "layout": "boxed",
+        "padding": {
+          "unit": "px",
+          "top": 70,
+          "right": 0,
+          "bottom": 10,
+          "left": 0,
+          "isLinked": false
+        },
+        "structure": "10",
+        "background_background": "classic",
+        "background_color": "#FFFFFF"
+      },
+      "elements": [
+        {
+          "id": "ab17891",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "1a3ee21",
+              "elType": "widget",
+              "settings": {
+                "title": "خطوات تقديم التظلم معنا",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#0B1F3A",
+                "_element_custom_width": {
+                  "unit": "%",
+                  "size": 100
+                },
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 32,
+                  "sizes": []
+                },
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "d535f91",
+              "elType": "widget",
+              "settings": {
+                "color": "#C8A24B",
+                "weight": {
+                  "unit": "px",
+                  "size": 3,
+                  "sizes": []
+                },
+                "width": {
+                  "unit": "px",
+                  "size": 70,
+                  "sizes": []
+                },
+                "align": "right"
+              },
+              "elements": [],
+              "widgetType": "divider"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "8f49b4a",
+      "elType": "section",
+      "settings": {
+        "layout": "boxed",
+        "padding": {
+          "unit": "px",
+          "top": 10,
+          "right": 0,
+          "bottom": 60,
+          "left": 0,
+          "isLinked": false
+        },
+        "structure": "10",
+        "background_background": "classic",
+        "background_color": "#FFFFFF"
+      },
+      "elements": [
+        {
+          "id": "009160b",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "b63da69",
+              "elType": "widget",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-search",
+                  "library": "fa-solid"
+                },
+                "title_text": "1. دراسة قرار الرفض",
+                "description_text": "نحلّل أسباب الرفض الواردة في خطاب إدارة العلامات بدقة.",
+                "position": "top",
+                "text_align": "center",
+                "title_color": "#0B1F3A",
+                "description_color": "#5A6473",
+                "primary_color": "#0B1F3A",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 38,
+                  "sizes": []
+                },
+                "icon_space": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "title_typography_typography": "custom",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 21,
+                  "sizes": []
+                },
+                "title_typography_font_weight": "700",
+                "description_typography_typography": "custom",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "description_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.8,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "icon-box"
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "3dbce69",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "b038246",
+              "elType": "widget",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-pen-fancy",
+                  "library": "fa-solid"
+                },
+                "title_text": "2. إعداد مذكرة التظلم",
+                "description_text": "نصيغ تظلمًا نظاميًا مسبّبًا يدحض أسباب الرفض بالأدلة.",
+                "position": "top",
+                "text_align": "center",
+                "title_color": "#0B1F3A",
+                "description_color": "#5A6473",
+                "primary_color": "#0B1F3A",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 38,
+                  "sizes": []
+                },
+                "icon_space": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "title_typography_typography": "custom",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 21,
+                  "sizes": []
+                },
+                "title_typography_font_weight": "700",
+                "description_typography_typography": "custom",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "description_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.8,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "icon-box"
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "245d559",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "34e6d3e",
+              "elType": "widget",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-paper-plane",
+                  "library": "fa-solid"
+                },
+                "title_text": "3. تقديم التظلم",
+                "description_text": "نرفع التظلم للجهة المختصة خلال المهلة النظامية.",
+                "position": "top",
+                "text_align": "center",
+                "title_color": "#0B1F3A",
+                "description_color": "#5A6473",
+                "primary_color": "#0B1F3A",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 38,
+                  "sizes": []
+                },
+                "icon_space": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "title_typography_typography": "custom",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 21,
+                  "sizes": []
+                },
+                "title_typography_font_weight": "700",
+                "description_typography_typography": "custom",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "description_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.8,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "icon-box"
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "c4bbd4e",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "8f70193",
+              "elType": "widget",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-headset",
+                  "library": "fa-solid"
+                },
+                "title_text": "4. المتابعة حتى القبول",
+                "description_text": "نتابع الطلب ونردّ على أي ملاحظات حتى صدور القرار.",
+                "position": "top",
+                "text_align": "center",
+                "title_color": "#0B1F3A",
+                "description_color": "#5A6473",
+                "primary_color": "#0B1F3A",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 38,
+                  "sizes": []
+                },
+                "icon_space": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "title_typography_typography": "custom",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 21,
+                  "sizes": []
+                },
+                "title_typography_font_weight": "700",
+                "description_typography_typography": "custom",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "description_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.8,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "icon-box"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "2e24a4b",
+      "elType": "section",
+      "settings": {
+        "layout": "boxed",
+        "padding": {
+          "unit": "px",
+          "top": 70,
+          "right": 0,
+          "bottom": 10,
+          "left": 0,
+          "isLinked": false
+        },
+        "structure": "10",
+        "background_background": "gradient",
+        "background_color": "#0B1F3A",
+        "background_color_b": "#13325c",
+        "background_gradient_angle": {
+          "unit": "deg",
+          "size": 135,
+          "sizes": []
+        }
+      },
+      "elements": [
+        {
+          "id": "e5e09cf",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "f979d46",
+              "elType": "widget",
+              "settings": {
+                "title": "لماذا تختارنا لتقديم تظلمك؟",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#FFFFFF",
+                "_element_custom_width": {
+                  "unit": "%",
+                  "size": 100
+                },
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 32,
+                  "sizes": []
+                },
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "84ffc5c",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p style='text-align:center;color:#D7DEEA'>نجمع بين الخبرة النظامية والمتابعة الدقيقة لرفع فرص قبول علامتك التجارية.</p>",
+                "align": "center",
+                "text_color": "#D7DEEA",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.9,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "b1fb786",
+      "elType": "section",
+      "settings": {
+        "layout": "boxed",
+        "padding": {
+          "unit": "px",
+          "top": 10,
+          "right": 0,
+          "bottom": 70,
+          "left": 0,
+          "isLinked": false
+        },
+        "structure": "10",
+        "background_background": "gradient",
+        "background_color": "#0B1F3A",
+        "background_color_b": "#13325c",
+        "background_gradient_angle": {
+          "unit": "deg",
+          "size": 135,
+          "sizes": []
+        }
+      },
+      "elements": [
+        {
+          "id": "78c7c32",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": null,
+            "background_background": "classic",
+            "background_color": "#13325c",
+            "border_radius": {
+              "unit": "px",
+              "top": 12,
+              "right": 12,
+              "bottom": 12,
+              "left": 12,
+              "isLinked": true
+            },
+            "padding": {
+              "unit": "px",
+              "top": 26,
+              "right": 16,
+              "bottom": 26,
+              "left": 16,
+              "isLinked": false
+            },
+            "margin": {
+              "unit": "px",
+              "top": 0,
+              "right": 8,
+              "bottom": 0,
+              "left": 8,
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "98d7140",
+              "elType": "widget",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-user-tie",
+                  "library": "fa-solid"
+                },
+                "title_text": "خبرة متخصصة",
+                "description_text": "فريق متمرّس في تظلمات واعتراضات العلامات التجارية.",
+                "position": "top",
+                "text_align": "center",
+                "title_color": "#FFFFFF",
+                "description_color": "#C7D0DE",
+                "primary_color": "#C8A24B",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 38,
+                  "sizes": []
+                },
+                "icon_space": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "title_typography_typography": "custom",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 21,
+                  "sizes": []
+                },
+                "title_typography_font_weight": "700",
+                "description_typography_typography": "custom",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "description_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.8,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "icon-box"
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "449b5ba",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": null,
+            "background_background": "classic",
+            "background_color": "#13325c",
+            "border_radius": {
+              "unit": "px",
+              "top": 12,
+              "right": 12,
+              "bottom": 12,
+              "left": 12,
+              "isLinked": true
+            },
+            "padding": {
+              "unit": "px",
+              "top": 26,
+              "right": 16,
+              "bottom": 26,
+              "left": 16,
+              "isLinked": false
+            },
+            "margin": {
+              "unit": "px",
+              "top": 0,
+              "right": 8,
+              "bottom": 0,
+              "left": 8,
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "2e567aa",
+              "elType": "widget",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-bolt",
+                  "library": "fa-solid"
+                },
+                "title_text": "سرعة الاستجابة",
+                "description_text": "نلتزم بالمهل النظامية ونبدأ العمل فور تواصلك.",
+                "position": "top",
+                "text_align": "center",
+                "title_color": "#FFFFFF",
+                "description_color": "#C7D0DE",
+                "primary_color": "#C8A24B",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 38,
+                  "sizes": []
+                },
+                "icon_space": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "title_typography_typography": "custom",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 21,
+                  "sizes": []
+                },
+                "title_typography_font_weight": "700",
+                "description_typography_typography": "custom",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "description_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.8,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "icon-box"
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "404a8a8",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": null,
+            "background_background": "classic",
+            "background_color": "#13325c",
+            "border_radius": {
+              "unit": "px",
+              "top": 12,
+              "right": 12,
+              "bottom": 12,
+              "left": 12,
+              "isLinked": true
+            },
+            "padding": {
+              "unit": "px",
+              "top": 26,
+              "right": 16,
+              "bottom": 26,
+              "left": 16,
+              "isLinked": false
+            },
+            "margin": {
+              "unit": "px",
+              "top": 0,
+              "right": 8,
+              "bottom": 0,
+              "left": 8,
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "385c578",
+              "elType": "widget",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-shield-alt",
+                  "library": "fa-solid"
+                },
+                "title_text": "سرّية تامة",
+                "description_text": "نتعامل مع بياناتك ومستنداتك بخصوصية كاملة.",
+                "position": "top",
+                "text_align": "center",
+                "title_color": "#FFFFFF",
+                "description_color": "#C7D0DE",
+                "primary_color": "#C8A24B",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 38,
+                  "sizes": []
+                },
+                "icon_space": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "title_typography_typography": "custom",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 21,
+                  "sizes": []
+                },
+                "title_typography_font_weight": "700",
+                "description_typography_typography": "custom",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "description_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.8,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "icon-box"
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "304f392",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": null,
+            "background_background": "classic",
+            "background_color": "#13325c",
+            "border_radius": {
+              "unit": "px",
+              "top": 12,
+              "right": 12,
+              "bottom": 12,
+              "left": 12,
+              "isLinked": true
+            },
+            "padding": {
+              "unit": "px",
+              "top": 26,
+              "right": 16,
+              "bottom": 26,
+              "left": 16,
+              "isLinked": false
+            },
+            "margin": {
+              "unit": "px",
+              "top": 0,
+              "right": 8,
+              "bottom": 0,
+              "left": 8,
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "be220ed",
+              "elType": "widget",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-hand-holding-usd",
+                  "library": "fa-solid"
+                },
+                "title_text": "أسعار واضحة",
+                "description_text": "تكلفة معلومة مسبقًا دون مفاجآت أو رسوم خفية.",
+                "position": "top",
+                "text_align": "center",
+                "title_color": "#FFFFFF",
+                "description_color": "#C7D0DE",
+                "primary_color": "#C8A24B",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 38,
+                  "sizes": []
+                },
+                "icon_space": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "title_typography_typography": "custom",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 21,
+                  "sizes": []
+                },
+                "title_typography_font_weight": "700",
+                "description_typography_typography": "custom",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "description_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.8,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "icon-box"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "855cfa1",
+      "elType": "section",
+      "settings": {
+        "layout": "boxed",
+        "padding": {
+          "unit": "px",
+          "top": 60,
+          "right": 0,
+          "bottom": 60,
+          "left": 0,
+          "isLinked": false
+        },
+        "structure": "10",
+        "background_background": "classic",
+        "background_color": "#FFFFFF"
+      },
+      "elements": [
+        {
+          "id": "ffe87d3",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "c14331d",
+              "elType": "widget",
+              "settings": {
+                "title": "الأسئلة الشائعة حول تظلم رفض العلامة التجارية",
+                "header_size": "h2",
+                "align": "right",
+                "title_color": "#0B1F3A",
+                "_element_custom_width": {
+                  "unit": "%",
+                  "size": 100
+                },
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 30,
+                  "sizes": []
+                },
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "5442776",
+              "elType": "widget",
+              "settings": {
+                "color": "#C8A24B",
+                "weight": {
+                  "unit": "px",
+                  "size": 3,
+                  "sizes": []
+                },
+                "width": {
+                  "unit": "px",
+                  "size": 70,
+                  "sizes": []
+                },
+                "align": "right"
+              },
+              "elements": [],
+              "widgetType": "divider"
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "4cf47c4",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "66abb9c",
+              "elType": "widget",
+              "settings": {
+                "tabs": [
+                  {
+                    "_id": "ae85383",
+                    "tab_title": "ما هي مهلة تقديم التظلم على رفض العلامة التجارية؟",
+                    "tab_content": "يجب تقديم التظلم خلال المدة النظامية المحددة في خطاب الرفض، ولذلك ننصح بالتواصل معنا فور استلام القرار لتفادي سقوط الحق."
+                  },
+                  {
+                    "_id": "8391326",
+                    "tab_title": "هل يمكن قبول العلامة بعد رفضها؟",
+                    "tab_content": "نعم، كثير من قرارات الرفض يُعاد النظر فيها عند تقديم تظلم نظامي مسبّب ومدعّم بالأدلة والمستندات المناسبة."
+                  },
+                  {
+                    "_id": "5be49f4",
+                    "tab_title": "ما المستندات المطلوبة لإعداد التظلم؟",
+                    "tab_content": "خطاب الرفض، وبيانات طلب التسجيل، وصورة العلامة، وأي مستندات تدعم أحقيتك في العلامة. ونرشدك لكل ما يلزم بعد التواصل."
+                  },
+                  {
+                    "_id": "f7cdcfc",
+                    "tab_title": "هل تقدّمون صيغة تظلم من رفض تسجيل علامة تجارية جاهزة؟",
+                    "tab_content": "نُعدّ لك صيغة تظلم مخصّصة لحالتك وليست نموذجًا عامًا، لأن نجاح التظلم يعتمد على معالجة أسباب الرفض تحديدًا."
+                  },
+                  {
+                    "_id": "8ae7e0b",
+                    "tab_title": "كم تستغرق إجراءات التظلم؟",
+                    "tab_content": "تختلف المدة حسب الجهة وطبيعة الحالة، ونحرص على تقديم التظلم مبكرًا ومتابعته حتى صدور القرار النهائي."
+                  }
+                ],
+                "title_color": "#0B1F3A",
+                "tab_active_color": "#C8A24B",
+                "content_color": "#5A6473",
+                "selected_icon": {
+                  "value": "fas fa-plus",
+                  "library": "fa-solid"
+                },
+                "selected_active_icon": {
+                  "value": "fas fa-minus",
+                  "library": "fa-solid"
+                },
+                "title_typography_typography": "custom",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "title_typography_font_weight": "700"
+              },
+              "elements": [],
+              "widgetType": "accordion"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "ea24f2a",
+      "elType": "section",
+      "settings": {
+        "layout": "boxed",
+        "padding": {
+          "unit": "px",
+          "top": 70,
+          "right": 0,
+          "bottom": 70,
+          "left": 0,
+          "isLinked": false
+        },
+        "structure": "10",
+        "background_background": "classic",
+        "background_color": "#C8A24B"
+      },
+      "elements": [
+        {
+          "id": "e66525f",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "8150ded",
+              "elType": "widget",
+              "settings": {
+                "title": "ابدأ تظلمك الآن قبل انتهاء المهلة النظامية",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#0B1F3A",
+                "_element_custom_width": {
+                  "unit": "%",
+                  "size": 100
+                },
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 32,
+                  "sizes": []
+                },
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "3f6d4b5",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p style='text-align:center'>تواصل معنا اليوم للحصول على استشارة حول تظلم رفض علامتك التجارية والبدء في إعداد مذكرتك.</p>",
+                "align": "center",
+                "text_color": "#0B1F3A",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.9,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            },
+            {
+              "id": "e3a88c4",
+              "elType": "widget",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 10,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "spacer"
+            },
+            {
+              "id": "8f6b65b",
+              "elType": "section",
+              "settings": {
+                "gap": "default"
+              },
+              "elements": [
+                {
+                  "id": "d16fa60",
+                  "elType": "column",
+                  "settings": {
+                    "_column_size": 50,
+                    "_inline_size": null
+                  },
+                  "elements": [
+                    {
+                      "id": "13f3098",
+                      "elType": "widget",
+                      "settings": {
+                        "text": "📞 اتصل: ‏+966 54 144 7701",
+                        "link": {
+                          "url": "tel:+966541447701",
+                          "is_external": "true",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "align": "center",
+                        "button_text_color": "#FFFFFF",
+                        "background_color": "#0B1F3A",
+                        "border_radius": {
+                          "unit": "px",
+                          "top": 10,
+                          "right": 10,
+                          "bottom": 10,
+                          "left": 10,
+                          "isLinked": true
+                        },
+                        "text_padding": {
+                          "unit": "px",
+                          "top": 18,
+                          "right": 38,
+                          "bottom": 18,
+                          "left": 38,
+                          "isLinked": false
+                        },
+                        "selected_icon": {
+                          "value": "fas fa-phone-alt",
+                          "library": "fa-solid"
+                        },
+                        "icon_align": "right",
+                        "icon_indent": {
+                          "unit": "px",
+                          "size": 10,
+                          "sizes": []
+                        },
+                        "typography_typography": "custom",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 18,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700"
+                      },
+                      "elements": [],
+                      "widgetType": "button"
+                    }
+                  ],
+                  "isInner": false
+                },
+                {
+                  "id": "d95e551",
+                  "elType": "column",
+                  "settings": {
+                    "_column_size": 50,
+                    "_inline_size": null
+                  },
+                  "elements": [
+                    {
+                      "id": "cb9b6c3",
+                      "elType": "widget",
+                      "settings": {
+                        "text": "واتساب مباشر",
+                        "link": {
+                          "url": "https://wa.me/966541447701?text=أرغب%20في%20تقديم%20تظلم%20على%20رفض%20علامتي%20التجارية",
+                          "is_external": "true",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "align": "center",
+                        "button_text_color": "#FFFFFF",
+                        "background_color": "#25D366",
+                        "border_radius": {
+                          "unit": "px",
+                          "top": 10,
+                          "right": 10,
+                          "bottom": 10,
+                          "left": 10,
+                          "isLinked": true
+                        },
+                        "text_padding": {
+                          "unit": "px",
+                          "top": 18,
+                          "right": 38,
+                          "bottom": 18,
+                          "left": 38,
+                          "isLinked": false
+                        },
+                        "selected_icon": {
+                          "value": "fab fa-whatsapp",
+                          "library": "fa-solid"
+                        },
+                        "icon_align": "right",
+                        "icon_indent": {
+                          "unit": "px",
+                          "size": 10,
+                          "sizes": []
+                        },
+                        "typography_typography": "custom",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 18,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700"
+                      },
+                      "elements": [],
+                      "widgetType": "button"
+                    }
+                  ],
+                  "isInner": false
+                }
+              ],
+              "isInner": true
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "28587c6",
+      "elType": "section",
+      "settings": {
+        "layout": "boxed",
+        "padding": {
+          "unit": "px",
+          "top": 40,
+          "right": 0,
+          "bottom": 40,
+          "left": 0,
+          "isLinked": false
+        },
+        "structure": "10",
+        "background_background": "classic",
+        "background_color": "#0B1F3A"
+      },
+      "elements": [
+        {
+          "id": "f4344ab",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "74feb0f",
+              "elType": "widget",
+              "settings": {
+                "title": "خدمة تظلم من رفض العلامة التجارية",
+                "header_size": "h3",
+                "align": "center",
+                "title_color": "#FFFFFF",
+                "_element_custom_width": {
+                  "unit": "%",
+                  "size": 100
+                },
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 20,
+                  "sizes": []
+                },
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "715ce9c",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p style='text-align:center;color:#C7D0DE'>نقدّم خدمات التظلم والاعتراض على قرارات العلامات التجارية في المملكة العربية السعودية.</p><p style='text-align:center;color:#FFFFFF'>للتواصل: ‏+966 54 144 7701</p>",
+                "align": "center",
+                "text_color": "#C7D0DE",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.9,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            },
+            {
+              "id": "4af7b01",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p style='text-align:center;color:#7E8aa0;font-size:13px'>جميع الحقوق محفوظة © 2026</p>",
+                "align": "center",
+                "text_color": "#7E8aa0",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.9,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    }
+  ]
+}
