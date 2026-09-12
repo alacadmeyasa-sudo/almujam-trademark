@@ -38,6 +38,8 @@ jobs:
           mkdir -p _site
           # The landing page is the site entry point
           cp index.html _site/index.html
+          # Legal translation (Oman) landing page
+          cp legal-translation-oman.html _site/legal-translation-oman.html
           # Ship the importable Elementor template + docs as downloadable assets
           cp elementor-template.json _site/elementor-template.json
           cp README.md _site/README.md
